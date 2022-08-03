@@ -1,2 +1,1 @@
-# Bethany-s-Pie-Shop
-A pie ordering website | Use of geolocation API and post method. HTML | CSS | JS
+# Building Websites With HTML, CSS, and JavaScript: Getting Started
